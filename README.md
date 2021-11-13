@@ -6,6 +6,4 @@ test
 second commit
 
 third commit
-
-
-tets
+changed readme
